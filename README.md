@@ -33,6 +33,9 @@ DB w/ AI, DB w/ OS
 
 ## Frameworks:
 [![](https://img.shields.io/badge/-Torch-e74a2b?style=flat-square&logo=pytorch&logoColor=ffffff)](https://pytorch.org/)
+| Category      | Framework      |
+| ------------- | ------------- |
+|API|[![](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=ffffff)](https://fastapi.tiangolo.com/) w/ [![](https://img.shields.io/badge/-Pydantic-e92063?style=flat-square&logo=pydantic&logoColor=ffffff)](https://docs.pydantic.dev/latest/) [![](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=ffffff)](https://swagger.io/)|
 
 # Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xinjie-h)](https://github.com/anuraghazra/github-readme-stats)
